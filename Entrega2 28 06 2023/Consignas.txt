@@ -1,0 +1,32 @@
+Consignas.
+Realizar al menos tres gráficos (lineplot, scatterplot, histogramas, barchart, boxplot, pie chart, etc) usando la librería Matplotlib.
+
+
+1. Line Plot (Gráfico de línea): Un gráfico de línea muestra la relación entre dos variables continuas en un sistema de coordenadas cartesianas. Los puntos de datos se conectan mediante líneas rectas, lo que permite visualizar cambios y tendencias a lo largo de la variable independiente (eje x). Es útil para representar series de tiempo, mostrar tendencias o comparar múltiples líneas en el mismo gráfico.
+
+2. Scatter Plot (Gráfico de dispersión): Un gráfico de dispersión muestra la relación entre dos variables continuas. Cada punto en el gráfico representa una observación y su posición en el espacio bidimensional está determinada por los valores de las dos variables. Es útil para identificar patrones de dispersión, correlaciones o agrupaciones entre las variables.
+
+3. Histograma: Un histograma muestra la distribución de una variable continua dividiendo el rango de valores en intervalos y mostrando la frecuencia o densidad de observaciones en cada intervalo. Es útil para visualizar la forma y simetría de la distribución, así como para identificar valores atípicos o concentraciones de valores en ciertos rangos.
+
+4. Bar Chart (Gráfico de barras): Un gráfico de barras muestra la comparación de categorías utilizando barras rectangulares de diferentes alturas. Cada barra representa una categoría y su altura representa una medida asociada, como una frecuencia o un valor numérico. Es útil para realizar comparaciones entre categorías y resaltar diferencias o patrones.
+
+5. Box Plot (Diagrama de caja): Un diagrama de caja muestra la distribución de un conjunto de datos utilizando un rectángulo y líneas verticales. El rectángulo representa el rango intercuartil (IQR) y las líneas verticales (bigotes) representan el rango completo de datos. Es útil para visualizar la dispersión, la mediana y los valores atípicos de un conjunto de datos.
+
+6. Pie Chart (Gráfico circular): Un gráfico circular muestra la proporción de cada categoría dentro de un conjunto de datos utilizando sectores circulares. Cada sector representa una categoría y su tamaño angular representa la proporción o porcentaje de la categoría en relación al conjunto total. Es útil para mostrar la composición o distribución de categorías.
+
+7. Area Plot (Gráfico de área): Similar a un gráfico de línea, pero con el área entre la línea y el eje x coloreada. Es útil para mostrar la distribución de datos y resaltar las diferencias entre varias categorías o series.
+
+8. Barh Plot (Gráfico de barras horizontales): Similar a un gráfico de barras, pero con las barras dispuestas horizontalmente en lugar de verticalmente. Es útil cuando se desea mostrar una comparación entre categorías con nombres largos.
+
+9. Violin Plot (Diagrama de violín): Combina un diagrama de caja y un gráfico de densidad para representar la distribución de datos. Proporciona información sobre la mediana, el rango intercuartil y la densidad de datos en diferentes valores.
+
+10. Heatmap (Mapa de calor): Muestra los valores de una matriz bidimensional utilizando colores para representar diferentes niveles de intensidad. Es útil para visualizar relaciones y patrones en datos tabulares.
+
+Diferencias entre Matplotlib con Seaborn
+Matplotlib es una librería de trazado básica y altamente personalizable en Python. Proporciona una amplia variedad de funciones para crear diferentes tipos de gráficos y visualizaciones. Sin embargo, puede requerir más código y ajustes para lograr una apariencia estéticamente agradable.
+
+Seaborn, por otro lado, es una librería de visualización de datos basada en Matplotlib. Está diseñada específicamente para la creación de gráficos estadísticos y tiene una interfaz más sencilla y declarativa en comparación con Matplotlib. Seaborn utiliza por defecto estilos y paletas de colores más atractivos y ofrece funciones de alto nivel para generar gráficos más rápidamente.
+
+En resumen, Seaborn se basa en Matplotlib y proporciona una capa de abstracción más alta y funcionalidades específicas para visualizaciones estadísticas, lo que facilita la creación de gráficos más atractivos y sofisticados con menos líneas de código. Si bien ambos son útiles, Seaborn puede ser una opción conveniente cuando se trabaja con análisis de datos y se desean visualizaciones más atractivas y estadísticamente informativas.
+
+Realizar al menos tres gráficos (lineplot, scatterplot, histogramas, barchart, boxplot, pie chart, etc) usando la librería Seaborn.
